@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GitClone\\PetRegistry\\src\\PetRegistry.API\\wwwroot\\swagger-ui\\SwaggerDark.css",
+      "PackagePath": "staticwebassets\\swagger-ui\\SwaggerDark.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PetRegistry.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PetRegistry.API.props",
+      "PackagePath": "build\\PetRegistry.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PetRegistry.API.props",
+      "PackagePath": "buildMultiTargeting\\PetRegistry.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PetRegistry.API.props",
+      "PackagePath": "buildTransitive\\PetRegistry.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

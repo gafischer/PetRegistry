@@ -1,0 +1,7 @@
+C:\Users\GABRIEL\source\repos\TesteAPI\TesteAPI\obj\Debug\net6.0\Pet.Storage.Service.Api.csproj.AssemblyReference.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\TesteAPI\obj\Debug\net6.0\Pet.Storage.Service.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL\source\repos\TesteAPI\TesteAPI\obj\Debug\net6.0\Pet.Storage.Service.Api.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\TesteAPI\obj\Debug\net6.0\Pet.Storage.Service.Api.AssemblyInfo.cs
+C:\Users\GABRIEL\source\repos\TesteAPI\TesteAPI\obj\Debug\net6.0\Pet.Storage.Service.Api.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\TesteAPI\obj\Debug\net6.0\Pet.Storage.Service.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GABRIEL\source\repos\TesteAPI\TesteAPI\obj\Debug\net6.0\Pet.Storage.Service.Api.MvcApplicationPartsAssemblyInfo.cache

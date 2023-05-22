@@ -1,0 +1,12 @@
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\bin\Debug\net6.0\Pets.Storage.Domain.deps.json
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\bin\Debug\net6.0\Pets.Storage.Domain.dll
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\bin\Debug\net6.0\Pets.Storage.Domain.pdb
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\Pets.Storage.Domain.csproj.AssemblyReference.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\Pets.Storage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\Pets.Storage.Domain.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\Pets.Storage.Domain.AssemblyInfo.cs
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\Pets.Storage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\Pets.Storage.Domain.dll
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\refint\Pets.Storage.Domain.dll
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\Pets.Storage.Domain.pdb
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Domain\obj\Debug\net6.0\ref\Pets.Storage.Domain.dll

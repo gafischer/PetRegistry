@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "nnIlj5+USv9XiT5aLGh3OtHj9IGVUwvmU9l2VY8T33Y=",
+  "Source": "PetRegistry.API",
+  "BasePath": "_content/PetRegistry.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PetRegistry.API\\wwwroot",
+      "Source": "PetRegistry.API",
+      "ContentRoot": "C:\\GitClone\\PetRegistry\\src\\PetRegistry.API\\wwwroot\\",
+      "BasePath": "_content/PetRegistry.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\GitClone\\PetRegistry\\src\\PetRegistry.API\\wwwroot\\swagger-ui\\SwaggerDark.css",
+      "SourceId": "PetRegistry.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitClone\\PetRegistry\\src\\PetRegistry.API\\wwwroot\\",
+      "BasePath": "_content/PetRegistry.API",
+      "RelativePath": "swagger-ui/SwaggerDark.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\SwaggerDark.css"
+    }
+  ]
+}

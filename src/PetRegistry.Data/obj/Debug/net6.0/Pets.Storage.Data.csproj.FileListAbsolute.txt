@@ -1,0 +1,15 @@
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.csproj.AssemblyReference.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.AssemblyInfo.cs
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\bin\Debug\net6.0\Pets.Storage.Data.deps.json
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\bin\Debug\net6.0\Pets.Storage.Data.dll
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\bin\Debug\net6.0\Pets.Storage.Data.pdb
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\bin\Debug\net6.0\Pets.Storage.Domain.dll
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\bin\Debug\net6.0\Pets.Storage.Domain.pdb
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.csproj.CopyComplete
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.dll
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\refint\Pets.Storage.Data.dll
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\Pets.Storage.Data.pdb
+C:\Users\GABRIEL\source\repos\TesteAPI\Pets.Storage.Data\obj\Debug\net6.0\ref\Pets.Storage.Data.dll
